@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_Assets/Free Stylized Hand-Painted Skybox/Demo 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

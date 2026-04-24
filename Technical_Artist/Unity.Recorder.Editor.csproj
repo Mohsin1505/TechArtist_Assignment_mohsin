@@ -129,8 +129,8 @@
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\OutputPath.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\Recorders\_Inputs\RenderTexture\RenderTextureInputSettingsPropertyDrawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\RecorderInput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\RecorderPreferences\RecorderPreferencesSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\FileNameGenerator.cs" />
+    <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\RecorderPreferences\RecorderPreferencesSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Sources\ImageInputSelector.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Timeline\RecorderPlayableBehaviour.cs" />
     <Compile Include="Library\PackageCache\com.unity.recorder@f58b3db87352\Editor\Timeline\RecorderTrack.cs" />
